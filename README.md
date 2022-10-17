@@ -1,6 +1,6 @@
-# Dummy Python Application
+# Python Application
 
-A dummy password manager with GUI written in python.
+A  password manager with GUI written in python.
 
 Requires MySQL server.
 
